@@ -12,9 +12,9 @@ import java.sql.SQLException;
  * @author Jeagil
  */
 public class DatabaseConnection {
-    private static final String URL = "jdbc:mysql://almacenitla-db.ctam6uiuy8ez.us-east-1.rds.amazonaws.com:3306/almacenitlafinal";
-    private static final String USER = "estuditlafinal";
-    private static final String PASSWORD = "itla123.";
+    private static final String URL = "almacenitla-db-itla-3837.e.aivencloud.com:25037/almacenitlafinal";
+    private static final String USER = "avnadmin";
+    private static final String PASSWORD = "AVNS_pPa2xcIg1UbjOzcsoMg";
 
      /**
      * Obtiene una conexión a la base de datos.
